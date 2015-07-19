@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Reproducible Research: Peer Assessment 1
 ================================================================================
 **Author: drktjones**
@@ -220,3 +221,30 @@ There does appear to be a difference in the average number of steps taken for we
 
 
 
+=======
+---
+title: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: true
+---
+
+
+## Loading and preprocessing the data
+
+
+
+## What is mean total number of steps taken per day?
+
+
+
+## What is the average daily activity pattern?
+
+
+
+## Imputing missing values
+
+
+
+## Are there differences in activity patterns between weekdays and weekends?
+>>>>>>> 80edf39c3bb508fee88e3394542f967dd3fd3270
